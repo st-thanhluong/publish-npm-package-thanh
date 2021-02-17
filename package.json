@@ -1,0 +1,19 @@
+{
+  "name": "publish-hello-world",
+  "version": "1.0.0",
+  "description": "lần đầu làm chuyện ấy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st-thanhluong/publish-npm-package-thanh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/st-thanhluong/publish-npm-package-thanh/issues"
+  },
+  "homepage": "https://github.com/st-thanhluong/publish-npm-package-thanh#readme"
+}
