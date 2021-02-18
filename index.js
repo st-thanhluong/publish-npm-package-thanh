@@ -1,4 +1,4 @@
-module.exports = function makeArrayOfItems(status) {
+const  helloWorld = (status) => {
     return {
       data: {
         items: [{ name: "thanh", age: 10 }, { name: "cong", age: 20 }]
@@ -6,3 +6,5 @@ module.exports = function makeArrayOfItems(status) {
       status: status
     };
   }
+
+  export default helloWorld;
